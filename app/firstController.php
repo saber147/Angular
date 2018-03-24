@@ -14,6 +14,7 @@ class firstController
      */
     public function __construct()
     {
+        xdebug_break();die;
     }
 
     public function justAction(){

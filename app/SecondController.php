@@ -10,4 +10,8 @@ class SecondController
 {
     public function BonjourAction(){
     }
+
+    public function HelloAction() {
+        echo 'hello world';
+    }
 }
